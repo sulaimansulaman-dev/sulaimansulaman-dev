@@ -1,22 +1,25 @@
 # 🧑‍💻 Sulaiman Sulaman
 
-`Final-Year Information Technology Student | Software Developer | Problem Solver`
+`Final-Year IT Student at North-West University`
 
 ---
 
 ## 📍 About Me
 
-- 🎓 **BSc Information Technology**, North-West University (Expected: Nov 2025)  
-- 💼 Passionate about building real-world software solutions using clean design and solid logic  
-- 🤖 Experienced in desktop application development and SQL-based data handling  
-- 🔁 Always iterating: from coding competitions and robotics to building full-stack systems
+🎓 BSc Information Technology, North-West University (Expected: Nov 2025)
+❤️ Passionate about solving real problems, software development, and learning new technologies
+🔧 I love solving problems and learning how things work
+🤝 Enjoy collaborating and sharing ideas with others
+🔍 Always learning through hands-on projects
+🔁 Always iterating: Always improving and refining my work, making things better every step. 
+
 
 ---
 
 ## 🛠️ Technical Skills
 
 ```plaintext
-Languages:       Python, Java, C#, C++
-Database:        SQL Server
-Concepts:        Object-Oriented Programming, CRUD Apps, Report Generation
-Other:           Basic Machine Learning, Data Structures, Form Validation
+Languages:Python, Java, C#, C++
+Database Management:SQL Server
+Software Development: Visual Studio, Github
+Other: Git, SQL, Basic Machine Learning
