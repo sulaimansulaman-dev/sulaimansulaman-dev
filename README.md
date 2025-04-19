@@ -45,6 +45,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=gotham&hide_progress=true)
 
 ---
-[<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="200"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)&nbsp;
-[<img src="https://images.vexels.com/media/users/3/140030/isolated/svg/521136d25b37386f49728b93d2e4e6fa.svg?logoColor=Blue" alt="Download CV" width="40"/>](https://github.com/yourusername/yourrepository/raw/main/cv.pdf)
+[<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="200"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)
+[<img src="https://images.vexels.com/media/users/3/140030/isolated/svg/521136d25b37386f49728b93d2e4e6fa.svg?logoColor=Blue" alt="Download CV" width="200"/>](https://github.com/yourusername/yourrepository/raw/main/cv.pdf)
 
