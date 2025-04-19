@@ -1,27 +1,22 @@
-### Hey there 👋, I'm [Your Name]!
+# 🧑‍💻 Sulaiman Sulaman
 
-💻 I'm a [Your Role, e.g., Full Stack Developer, Student, Data Scientist]  
-🎯 Currently working on: [Project Name or Learning Topic]  
-🌱 Learning: [e.g., React, Python, Docker]  
-📫 How to reach me: [your email or social links]  
-⚡ Fun fact: [something cool about you]
+`Final-Year Information Technology Student | Software Developer | Problem Solver`
 
 ---
 
-### 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-...
+## 📍 About Me
+
+- 🎓 **BSc Information Technology**, North-West University (Expected: Nov 2025)  
+- 💼 Passionate about building real-world software solutions using clean design and solid logic  
+- 🤖 Experienced in desktop application development and SQL-based data handling  
+- 🔁 Always iterating: from coding competitions and robotics to building full-stack systems
 
 ---
 
-### 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+## 🛠️ Technical Skills
 
----
-
-### 📫 Connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat)](https://twitter.com/yourhandle)
-
+```plaintext
+Languages:       Python, Java, C#, C++
+Database:        SQL Server
+Concepts:        Object-Oriented Programming, CRUD Apps, Report Generation
+Other:           Basic Machine Learning, Data Structures, Form Validation
