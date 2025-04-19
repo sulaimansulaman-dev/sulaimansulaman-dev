@@ -46,5 +46,5 @@
 
 ---
 [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="200"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)<br>
-[<img src="https://w7.pngwing.com/pngs/719/77/png-transparent-curriculum-vitae-job-hunting-resume-employment-cv-text-rectangle-resume-thumbnail.png?" alt="Download CV" width="100"/>](https://github.com/yourusername/yourrepository/raw/main/cv.pdf)
+[<img src="https://cdn-icons-png.flaticon.com/512/909/909212.png" alt="Download CV" width="100"/>](https://github.com/sulaimansulaman-dev/sulaimansulaman-dev/raw/main/Sulaiman_Sulaman_CV.pdf)
 
