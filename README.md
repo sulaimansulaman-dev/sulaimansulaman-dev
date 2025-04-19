@@ -45,4 +45,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=gotham&hide_progress=true)
 
 ---
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg?logo=linkedin" alt="LinkedIn" width="100"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)
+[<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="100"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)
