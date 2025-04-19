@@ -38,9 +38,11 @@
 <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="Basic Machine Learning" alt="Basic Machine Learning" width="40" height="40"/>
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=sulaimansulaman-dev&theme=gotham&hide_border=True&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sulaimansulaman-dev&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=gotham&hide_progress=true)
 
+---
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg?logo=linkedin)](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)
