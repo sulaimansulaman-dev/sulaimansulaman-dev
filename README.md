@@ -6,12 +6,12 @@
 
 ## 📍 About Me
 
-🎓 BSc Information Technology, North-West University (Expected: Nov 2025)
-❤️ Passionate about solving real problems, software development, and learning new technologies
-🔧 I love solving problems and learning how things work
-🤝 Enjoy collaborating and sharing ideas with others
-🔍 Always learning through hands-on projects
-🔁 Always iterating: Always improving and refining my work, making things better every step. 
+- 🎓 BSc Information Technology, North-West University (Expected: Nov 2025)
+- ❤️ Passionate about solving real problems, software development, and learning new technologies
+- 🔧 I love solving problems and learning how things work
+- 🤝 Enjoy collaborating and sharing ideas with others
+- 🔍 Always learning through hands-on projects
+- 🔁 Always iterating: Always improving and refining my work, making things better every step. 
 
 
 ---
