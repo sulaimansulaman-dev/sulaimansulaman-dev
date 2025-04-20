@@ -42,7 +42,7 @@
 
 ---
 
-![Sulaiman Sulaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Sulaiman Sulaman's Top Languages](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=tokyonight&layout=compact&v=1)
 
 ---
 [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="200"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
