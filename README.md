@@ -1,6 +1,6 @@
 # 🧑‍💻 Sulaiman Sulaman
 
-`Final-Year IT Student at North-West University`
+`Final-Year IT Student at North-West University | Aspiring Software Developer`
 
 ---
 
