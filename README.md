@@ -42,7 +42,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=tokyonight&layout=compact&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimansulaman-dev&theme=tokyonight&layout=compact&v=1)
 
 ---
 [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="200"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
