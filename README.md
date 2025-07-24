@@ -46,7 +46,7 @@
 
 ---
 [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg?logo=linkedin" alt="LinkedIn" width="200"/>](https://www.linkedin.com/in/sulaiman-sulaman-013a46319/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/909/909212.png" alt="Download CV" width="100"/>](https://github.com/sulaimansulaman-dev/sulaimansulaman-dev/blob/main/Sulaiman%20Sulaman%20CV.pdf)
+[<img src="https://cdn-icons-png.flaticon.com/512/909/909212.png" alt="Download CV" width="100"/>](https://github.com/sulaimansulaman-dev/sulaimansulaman-dev/blob/main/Sulaiman%20Sulaman%20CV.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/128/7710/7710466.png" alt="Website" width="100"/>](https://sulaimansulaman.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
